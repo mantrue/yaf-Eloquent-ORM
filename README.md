@@ -1,4 +1,4 @@
-# yaf-Eloquent-
+# yaf-Eloquent-ORM
 yaf框架整合laravel Eloquent 数据库ORM操作
 
 #首先修改php.ini配置文件
